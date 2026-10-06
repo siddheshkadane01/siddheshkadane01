@@ -1,21 +1,149 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>AI-driven, context-aware systems blending full-stack development with advanced machine learning.<br><br>👯 I’m looking to collaborate on<br><br>Intelligent automation projects, generative AI products, and scalable full-stack + ML solutions.<br><br>🤝 I’m looking for help with<br><br>Enhancing ML pipelines, optimizing AI model performance, and deploying production-ready systems.<br><br>🌱 I’m currently learning<br><br>Data Science, Machine Learning, Generative AI, Reinforcement Learning, and LLM architectures.<br><br>💬 Ask me about<br><br>Next.js + AI integrations, ML pipelines, LLM apps, Dockerized workflows, and intelligent web systems.<br><br>⚡ Fun fact<br><br>I’ve been a finalist in multiple national-level hackathons—including Mastercard, Odoo, Adobe, Dream11—and a 2nd Runner-Up in Abhivyakti 2025!
+<!-- Header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Siddhesh%20Kadane&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Payments%20Infrastructure&descSize=18&descAlignY=58&animation=fadeIn" alt="Siddhesh Kadane banner" />
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddheshkadane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshkadane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddheshkadane@gmail.com) 
+<a href="https://github.com/siddheshkadane01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+agentic+AI+%26+full-stack+systems;Hackathon+Finalist+%7C+LLM+%26+RAG+Enthusiast" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddheshkadane01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=siddheshkadane01&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshkadane01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siddheshkadane01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshkadane)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/siddheshkadane/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/siddheshkadane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddheshkadane@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siddheshkadane01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+
+AI & Data Science undergraduate with hands-on experience across **full-stack development**, **agentic AI systems**, and **payments infrastructure**.
+
+| | |
+|---|---|
+| 🎓 **Studying** | BE in Artificial Intelligence & Data Science at **PICT, Pune** (2023 – 2027), CGPA **9.38** |
+| 💼 **Previously** | Software Engineering Intern at **Mastercard** (May – Jul 2026) |
+| 🔭 **Currently working on** | AI-driven, context-aware systems blending full-stack development with agentic AI and machine learning |
+| 👯 **Looking to collaborate on** | Intelligent automation projects, generative AI products, and scalable full-stack + ML solutions |
+| 🤝 **Looking for help with** | Enhancing ML pipelines, optimizing AI model performance, and deploying production-ready systems |
+| 🌱 **Currently learning** | Reinforcement Learning, LLM architectures, and Generative AI |
+| 💬 **Ask me about** | Next.js + AI integrations, RAG pipelines, multi-agent LLM apps, Go microservices, and Dockerized workflows |
+
+> ⚡ **Fun fact:** My Mastercard internship came through the **Code for Change Hackathon** (Top 200 finalist). I've also placed **3rd at HackVega** among 47,000+ students and been **Top 20 at Odoo Hackathon 2025**. 🏆
+
+---
+
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td width="160"><b>🧑‍💻 Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>🤖 AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>☁️ DevOps & Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 Achievements & Certifications
+
+- 🥉 **3rd Place, HackVega** (HirePro): national-level hackathon with 47,000+ student participants
+- 💼 **Mastercard Summer Internship** secured via the **Code for Change Hackathon** (Top 200 finalist; Pune among top 5 colleges)
+- 🏆 **Top 20 Finalist, Odoo Hackathon 2025**: built QuickCourt in 24 hours among 19,000+ participants
+- 🎤 **2nd Runner-Up, Abhivyakti** (national paper presentation): research on reconstructing visuals from brain activity using deep neural networks and fMRI data
+- 🚩 Finalist at **Adobe India**, **Dream11**, **Meta AI**, and **OpenAI Codex** hackathons
+- 📜 **Oracle Cloud Generative AI Professional**, **Machine Learning Specialization** (Stanford Online)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=siddheshkadane01&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshkadane01&theme=vue-dark&hide_border=true&layout=compact" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=siddheshkadane01&theme=vue-dark&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Let's build something intelligent together!
+
+<img src="https://komarev.com/ghpvc/?username=siddheshkadane01&style=flat-square&color=2c5364" alt="Profile views" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
